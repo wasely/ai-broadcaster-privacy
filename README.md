@@ -1,3 +1,9 @@
+> [!NOTE]
+> **This copy is archived. The maintained project lives at [blixvip/ai-broadcaster-privacy](https://github.com/blixvip/ai-broadcaster-privacy).**
+> Issues, releases and pull requests all happen there. Contributors are welcome:
+> see its [good first issues](https://github.com/blixvip/ai-broadcaster-privacy/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+> and the [Discord](https://discord.gg/grokbot).
+
 # AI Broadcaster privacy policy
 
 Public privacy notice for AI Broadcaster 1.7.0, published by Kaihan under the Chrome Web Store display name `kaihanwasely`.
